@@ -29,7 +29,10 @@ https://raw.githubusercontent.com/amiri624/monitoring/refs/heads/main/docker-com
 ### 3: *Important
 ```bash
 docker pull prom/prometheus:latest
-``` 
+```
+```bash
+docker pull grafana/grafana:latest
+```
 ### Copy Dockerfile on Srerver (we need srv ip)
 ```bash
 scp monitoring/docker-compose.yml meisam@192.168.122.65
