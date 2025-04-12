@@ -30,3 +30,7 @@ https://raw.githubusercontent.com/amiri624/monitoring/refs/heads/main/docker-com
 ```bash
 docker pull prom/prometheus:latest
 ``` 
+### Copy Dockerfile on Srerver (we need srv ip)
+```bash
+scp monitoring/docker-compose.yml meisam@192.168.122.65
+```
