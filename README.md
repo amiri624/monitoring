@@ -22,5 +22,9 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 ```
 ## 2: grafana docker compose
 ### docker-compose.yml
+#### RAW
+```bash
+https://raw.githubusercontent.com/amiri624/monitoring/refs/heads/main/docker-compose.yml
+```
 
 
