@@ -38,7 +38,6 @@ docker pull grafana/grafana:latest
 scp monitoring/docker-compose.yml meisam@192.168.122.65
 ```
 ## 4:
-
 ```bash
 docker compose up -d
 ```
