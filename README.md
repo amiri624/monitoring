@@ -29,6 +29,7 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 ```bash
 https://raw.githubusercontent.com/amiri624/monitoring/refs/heads/main/docker-compose.yml
 ```
+
 ### 3: *Important
 ```bash
 docker pull prom/prometheus:latest
