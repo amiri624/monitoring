@@ -37,6 +37,7 @@ docker pull prom/prometheus:latest
 ```bash
 docker pull grafana/grafana:latest
 ```
+
 ### Copy Dockerfile from viscod on Srerver (we need srv ip)
 ```bash
 scp monitoring/docker-compose.yml meisam@192.168.122.65
